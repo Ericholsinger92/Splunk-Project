@@ -119,8 +119,7 @@ Design the following deliverables to protect VSI from potential attacks by JobeC
 **Reports: Design the following reports to assist VSI with quickly identifying specific information:**
 
 
-**A report that shows a table of the different HTTP methods (GET, POST, HEAD, etc).
-**
+**A report that shows a table of the different HTTP methods (GET, POST, HEAD, etc).**
 
 This will provide insight into the type of HTTP activity being requested against their web server.
 
