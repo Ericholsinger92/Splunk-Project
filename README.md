@@ -14,12 +14,12 @@ As SOC analysts, you are tasked with using Splunk to monitor against potential a
 Your Networking team has provided you with past logs to help you develop baselines and create reports, alerts, and dashboards.
 
 
-You've been provided the following logs:
-Windows Server Logs - This server contains intellectual property of VSI's next-generation virtual reality programs.
-Apache Server Logs - This server is used for VSI's main public-facing website vsi-company.com.
+**You've been provided the following logs:**
+- Windows Server Logs - This server contains intellectual property of VSI's next-generation virtual reality programs.
+- Apache Server Logs - This server is used for VSI's main public-facing website vsi-company.com.
 
 
-Windows Server Logs Instructions and Deliverables
+**Windows Server Logs Instructions and Deliverables**
 
 Load the logs into your Splunk environment.
 
